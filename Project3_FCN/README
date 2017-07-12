@@ -66,11 +66,3 @@ Steps of execution:
 2.  The python file python_exp3.py has to be run.
 3. Repeat trace file generation in step1 by changing DropTail to RED and run the python file again.
 
-Code by Anup Shandilya:
-
-1. Coded the tcl file for experiment1 and the parser python file for experiment 1 and 2.
-2. Sections of paper written: Introduction, Experiment1, Experiment 3
-
-Code by Tejaswini Eswar:
-   1. Coded the tcl file for experiment2 and experiment 3 and the python file for experiment 3.
-    2. Sections of paper written: Methodology,Experiment 2 ,Conclusion
