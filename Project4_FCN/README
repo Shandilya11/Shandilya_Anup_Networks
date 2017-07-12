@@ -53,19 +53,3 @@ Test cases:
 8) ./rawhttpget david.choffnes.com/classes/cs4700sp17/project4.php
 	Output: Downloads the project4.php file to the current directory
 	
-Parts of code by Anup Shandilya(001256309):
-1) Verifying the validation of the URL
-2) IP packing and unpacking
-3) Checksum computation
-4) TCP Handshake
-5) Finding the IP address of the gateway and building Ethernet header
-
-
-Parts of code by Tejaswini Eswar(001280199):
-1) TCP packing and unpacking
-2) TCP Timeout and retransmissions
-3) TCP Teardown
-4) Writing the data to the file on disk
-5) Building ARP header
-
-
