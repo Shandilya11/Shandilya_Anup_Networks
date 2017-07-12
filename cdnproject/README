@@ -61,12 +61,3 @@ Challenges faced:
 1) Perfoming Active Measurement using Scamper.
 2) As cache size was limited to 10MB, it was difficult to manage the database. This was overcome by compresssing the file and storing it.
 
-Code by Anup Shandilya:
-1) DNS Server
-2) Active Measurement- Scamper
-3) StopCDN script
-
-Code by Tejaswini Eswar:
-1) HTTP server
-2) deployCDN script
-3) runCDN script
