@@ -40,17 +40,3 @@ Output: Invalid credentials
 
 5)./webcrawler 001280199876 STEZZN5Ytttt
 Output: Invalid credentials
-
-Logic applied by Anup Shandilya(001256309):
-1) Worked on the HTTP POST message.
-2) Wrote the code and tested the same to handle the case when the server returned the "500 - Internal Server Error" and when the server returned "0".
-3) Worked on finding the secret flags using regular expressions.
-4) Wrote the code to handle all the exceptions.
-
-
-Logic applied by Tejaswini Eswar(001280199):
-1) Worked on the HTTP GET message.
-2) Extracted the URL's using HTMLParser module by writing a subclass for HTMLParser class.
-3) Wrote the code and tested the same to handle the case when the server returned the "301 - Moved Permanently" and when the client had to abondon the URL's when the server returned 
-"403 - Forbidden" and "404 - Not Found".
-4) Wrote the code responsible for the client to traverse through the frontier and avoiding loops by checking the url_visited list.
